@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheVo1dSmp.aternos.me",
+    "ip": "TheVo1dSmp.aternos.me:35445",
     "port": 35445,
     "version": "",
     "try-creative": false
